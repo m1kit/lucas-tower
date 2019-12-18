@@ -1,4 +1,6 @@
-# lucasgame
+# Lucas' tower simulator
+
+This project is a part of a class "Fundamental Artificial Intelligence" in Tokyo Tech.
 
 ## Project setup
 ```
