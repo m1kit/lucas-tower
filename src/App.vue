@@ -41,6 +41,10 @@
           title="A*Search Demo"
           subtitle="Computed with ASearch with h'(x)=0"
           :disks="disks" :h="h0"/>
+    <Demo v-if="disks<=4"
+          title="A*Search Demo"
+          subtitle="Computed with ASearch with h2"
+          :disks="disks" :h="h1"/>
 
     <footer class="footer">
       <div class="content has-text-centered">
