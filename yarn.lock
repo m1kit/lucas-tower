@@ -1513,9 +1513,9 @@ browserslist@^4.0.0, browserslist@^4.6.0, browserslist@^4.7.3, browserslist@^4.8
     electron-to-chromium "^1.3.322"
     node-releases "^1.1.42"
 
-buefy@^0.8.6:
-  version "0.8.8"
-  resolved "https://registry.yarnpkg.com/buefy/-/buefy-0.8.8.tgz#dc6a26c74793a6e28ee435d5ee06bdfe811dc9f4"
+buefy@^0.8.11:
+  version "0.8.11"
+  resolved "https://registry.yarnpkg.com/buefy/-/buefy-0.8.11.tgz#b352a55d04b769de688cdaae7664a975cd9e9990"
   dependencies:
     bulma "0.7.5"
 
