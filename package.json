@@ -14,7 +14,7 @@
     "priorityqueuejs": "^1.0.0",
     "vue": "^2.6.10",
     "vue-async-computed": "^3.7.0",
-    "workerpool": "^5.0.2"
+    "workerpool": "^5.0.4"
   },
   "devDependencies": {
     "@vue/cli-plugin-babel": "^4.1.0",
