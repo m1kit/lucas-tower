@@ -9,7 +9,7 @@
   },
   "dependencies": {
     "@mdi/font": "^4.4.0",
-    "buefy": "^0.8.6",
+    "buefy": "^0.8.11",
     "core-js": "^3.6.4",
     "priorityqueuejs": "^1.0.0",
     "vue": "^2.6.10",
